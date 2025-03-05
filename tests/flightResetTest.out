@@ -1,0 +1,68 @@
+User: Imported 51 locations.
+
+User: Successfully added Flight 0.
+
+User: Flight 0
+Departure:    Sun 20:00 Berlin
+Arrival:      Mon 04:52 NewYork
+Distance:     6,386km
+Duration:     8h 52m
+Ticket Cost:  $1825.24
+Passengers:   0/250
+
+User: Invalid Flight ID.
+
+User: Invalid Flight ID.
+
+User: Reset passengers booked to 0 for Flight 0, Sun 20:00 Berlin --> NewYork.
+
+User: Flight 0
+Departure:    Sun 20:00 Berlin
+Arrival:      Mon 04:52 NewYork
+Distance:     6,386km
+Duration:     8h 52m
+Ticket Cost:  $1825.24
+Passengers:   0/250
+
+User: Booked 1 passenger on flight 0 for a total cost of $1825.24
+
+User: Flight 0
+Departure:    Sun 20:00 Berlin
+Arrival:      Mon 04:52 NewYork
+Distance:     6,386km
+Duration:     8h 52m
+Ticket Cost:  $1822.32
+Passengers:   1/250
+
+User: Reset passengers booked to 0 for Flight 0, Sun 20:00 Berlin --> NewYork.
+
+User: Flight 0
+Departure:    Sun 20:00 Berlin
+Arrival:      Mon 04:52 NewYork
+Distance:     6,386km
+Duration:     8h 52m
+Ticket Cost:  $1825.24
+Passengers:   0/250
+
+User: Booked 250 passengers on flight 0 for a total cost of $433914.59
+Flight is now full.
+
+User: Flight 0
+Departure:    Sun 20:00 Berlin
+Arrival:      Mon 04:52 NewYork
+Distance:     6,386km
+Duration:     8h 52m
+Ticket Cost:  $1988.58
+Passengers:   250/250
+
+User: Reset passengers booked to 0 for Flight 0, Sun 20:00 Berlin --> NewYork.
+
+User: Flight 0
+Departure:    Sun 20:00 Berlin
+Arrival:      Mon 04:52 NewYork
+Distance:     6,386km
+Duration:     8h 52m
+Ticket Cost:  $1825.24
+Passengers:   0/250
+
+User: Application closed.

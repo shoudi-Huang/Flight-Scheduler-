@@ -1,0 +1,335 @@
+User: Usage: TRAVEL <from> <to> [cost/duration/stopovers/layover/flight_time]
+
+User: Usage: TRAVEL <from> <to> [cost/duration/stopovers/layover/flight_time]
+
+User: Starting location not found.
+
+User: Successfully added location Mumbai.
+
+User: Ending location not found.
+
+User: Successfully added location NewDelhi.
+
+User: Sorry, no flights with 3 or less stopovers are available from Mumbai to NewDelhi.
+
+User: Imported 51 locations.
+
+User: Imported 182 flights.
+
+User: Legs:             1
+Total Duration:   1h 35m
+Total Cost:       $317.79
+-------------------------------------------------------------
+ID   Cost      Departure   Arrival     Source --> Destination
+-------------------------------------------------------------
+ 116 $  317.79 Thu 17:30   Thu 19:05   Mumbai --> NewDelhi
+
+User: Legs:             1
+Total Duration:   1h 35m
+Total Cost:       $317.79
+-------------------------------------------------------------
+ID   Cost      Departure   Arrival     Source --> Destination
+-------------------------------------------------------------
+ 116 $  317.79 Thu 17:30   Thu 19:05   Mumbai --> NewDelhi
+
+User: Legs:             3
+Total Duration:   168h 35m
+Total Cost:       $1514.28
+-------------------------------------------------------------
+ID   Cost      Departure   Arrival     Source --> Destination
+-------------------------------------------------------------
+ 117 $  562.87 Thu 18:30   Thu 21:16   Mumbai --> AbuDhabi
+LAYOVER 1h 14m at AbuDhabi
+ 118 $  633.63 Thu 22:30   Fri 01:16   AbuDhabi --> Mumbai
+LAYOVER 160h 14m at Mumbai
+ 116 $  317.79 Thu 17:30   Thu 19:05   Mumbai --> NewDelhi
+
+User: Legs:             3
+Total Duration:   259h 5m
+Total Cost:       $1514.28
+-------------------------------------------------------------
+ID   Cost      Departure   Arrival     Source --> Destination
+-------------------------------------------------------------
+ 143 $  562.87 Mon 00:00   Mon 02:46   Mumbai --> AbuDhabi
+LAYOVER 91h 44m at AbuDhabi
+ 118 $  633.63 Thu 22:30   Fri 01:16   AbuDhabi --> Mumbai
+LAYOVER 160h 14m at Mumbai
+ 116 $  317.79 Thu 17:30   Thu 19:05   Mumbai --> NewDelhi
+
+User: Legs:             3
+Total Duration:   319h 5m
+Total Cost:       $1514.28
+-------------------------------------------------------------
+ID   Cost      Departure   Arrival     Source --> Destination
+-------------------------------------------------------------
+ 133 $  562.87 Fri 12:00   Fri 14:46   Mumbai --> AbuDhabi
+LAYOVER 151h 44m at AbuDhabi
+ 118 $  633.63 Thu 22:30   Fri 01:16   AbuDhabi --> Mumbai
+LAYOVER 160h 14m at Mumbai
+ 116 $  317.79 Thu 17:30   Thu 19:05   Mumbai --> NewDelhi
+
+User: Legs:             3
+Total Duration:   319h 5m
+Total Cost:       $1514.28
+-------------------------------------------------------------
+ID   Cost      Departure   Arrival     Source --> Destination
+-------------------------------------------------------------
+ 133 $  562.87 Fri 12:00   Fri 14:46   Mumbai --> AbuDhabi
+LAYOVER 151h 44m at AbuDhabi
+ 118 $  633.63 Thu 22:30   Fri 01:16   AbuDhabi --> Mumbai
+LAYOVER 160h 14m at Mumbai
+ 116 $  317.79 Thu 17:30   Thu 19:05   Mumbai --> NewDelhi
+
+User: Invalid sorting property: must be either cost, duration, stopovers, layover, or flight_time.
+
+User: Legs:             1
+Total Duration:   12h 25m
+Total Cost:       $2530.92
+-------------------------------------------------------------
+ID   Cost      Departure   Arrival     Source --> Destination
+-------------------------------------------------------------
+   0 $ 2530.92 Wed 09:00   Wed 21:25   Sydney --> Beijing
+
+User: Legs:             1
+Total Duration:   12h 25m
+Total Cost:       $2530.92
+-------------------------------------------------------------
+ID   Cost      Departure   Arrival     Source --> Destination
+-------------------------------------------------------------
+   0 $ 2530.92 Wed 09:00   Wed 21:25   Sydney --> Beijing
+
+User: Invalid sorting property: must be either cost, duration, stopovers, layover, or flight_time.
+
+User: Legs:             1
+Total Duration:   12h 25m
+Total Cost:       $2530.92
+-------------------------------------------------------------
+ID   Cost      Departure   Arrival     Source --> Destination
+-------------------------------------------------------------
+   0 $ 2530.92 Wed 09:00   Wed 21:25   Sydney --> Beijing
+
+User: Legs:             1
+Total Duration:   12h 25m
+Total Cost:       $2530.92
+-------------------------------------------------------------
+ID   Cost      Departure   Arrival     Source --> Destination
+-------------------------------------------------------------
+   0 $ 2530.92 Wed 09:00   Wed 21:25   Sydney --> Beijing
+
+User: Legs:             4
+Total Duration:   108h 25m
+Total Cost:       $4708.71
+-------------------------------------------------------------
+ID   Cost      Departure   Arrival     Source --> Destination
+-------------------------------------------------------------
+ 112 $  989.16 Sat 09:00   Sat 13:31   Sydney --> Perth
+LAYOVER 49h 34m at Perth
+ 171 $  565.20 Mon 15:05   Mon 17:52   Perth --> AliceSprings
+LAYOVER 6h 0m at AliceSprings
+ 173 $  623.43 Mon 23:52   Tue 02:38   AliceSprings --> Sydney
+LAYOVER 30h 22m at Sydney
+   0 $ 2530.92 Wed 09:00   Wed 21:25   Sydney --> Beijing
+
+User: Legs:             4
+Total Duration:   111h 25m
+Total Cost:       $4708.71
+-------------------------------------------------------------
+ID   Cost      Departure   Arrival     Source --> Destination
+-------------------------------------------------------------
+ 114 $  989.16 Sat 06:00   Sat 10:31   Sydney --> Perth
+LAYOVER 53h 34m at Perth
+ 170 $  565.20 Mon 16:05   Mon 18:52   Perth --> AliceSprings
+LAYOVER 5h 0m at AliceSprings
+ 173 $  623.43 Mon 23:52   Tue 02:38   AliceSprings --> Sydney
+LAYOVER 30h 22m at Sydney
+   0 $ 2530.92 Wed 09:00   Wed 21:25   Sydney --> Beijing
+
+User: Legs:             4
+Total Duration:   111h 25m
+Total Cost:       $4708.71
+-------------------------------------------------------------
+ID   Cost      Departure   Arrival     Source --> Destination
+-------------------------------------------------------------
+ 114 $  989.16 Sat 06:00   Sat 10:31   Sydney --> Perth
+LAYOVER 52h 34m at Perth
+ 171 $  565.20 Mon 15:05   Mon 17:52   Perth --> AliceSprings
+LAYOVER 6h 0m at AliceSprings
+ 173 $  623.43 Mon 23:52   Tue 02:38   AliceSprings --> Sydney
+LAYOVER 30h 22m at Sydney
+   0 $ 2530.92 Wed 09:00   Wed 21:25   Sydney --> Beijing
+
+User: Invalid sorting property: must be either cost, duration, stopovers, layover, or flight_time.
+
+User: Legs:             4
+Total Duration:   229h 31m
+Total Cost:       $5945.44
+-------------------------------------------------------------
+ID   Cost      Departure   Arrival     Source --> Destination
+-------------------------------------------------------------
+ 175 $ 1504.79 Wed 19:00   Thu 02:30   Brisbane --> Jakarta
+LAYOVER 114h 30m at Jakarta
+ 140 $  894.87 Mon 21:00   Tue 01:12   Jakarta --> Hanoi
+LAYOVER 47h 13m at Hanoi
+   3 $ 2556.62 Thu 00:25   Thu 11:11   Hanoi --> Sydney
+LAYOVER 40h 49m at Sydney
+ 113 $  989.16 Sat 04:00   Sat 08:31   Sydney --> Perth
+
+User: Legs:             4
+Total Duration:   229h 31m
+Total Cost:       $5945.44
+-------------------------------------------------------------
+ID   Cost      Departure   Arrival     Source --> Destination
+-------------------------------------------------------------
+ 175 $ 1504.79 Wed 19:00   Thu 02:30   Brisbane --> Jakarta
+LAYOVER 114h 30m at Jakarta
+ 140 $  894.87 Mon 21:00   Tue 01:12   Jakarta --> Hanoi
+LAYOVER 47h 13m at Hanoi
+   3 $ 2556.62 Thu 00:25   Thu 11:11   Hanoi --> Sydney
+LAYOVER 40h 49m at Sydney
+ 113 $  989.16 Sat 04:00   Sat 08:31   Sydney --> Perth
+
+User: Legs:             4
+Total Duration:   275h 31m
+Total Cost:       $1911.18
+-------------------------------------------------------------
+ID   Cost      Departure   Arrival     Source --> Destination
+-------------------------------------------------------------
+  96 $   92.67 Mon 23:00   Mon 23:26   Brisbane --> CoffsHarbour
+LAYOVER 166h 34m at CoffsHarbour
+  97 $  503.15 Mon 22:00   Tue 00:04   CoffsHarbour --> Hobart
+LAYOVER 6h 56m at Hobart
+  99 $  326.19 Tue 07:00   Tue 08:27   Hobart --> Sydney
+LAYOVER 93h 33m at Sydney
+ 114 $  989.16 Sat 06:00   Sat 10:31   Sydney --> Perth
+
+User: Legs:             4
+Total Duration:   278h 31m
+Total Cost:       $1911.18
+-------------------------------------------------------------
+ID   Cost      Departure   Arrival     Source --> Destination
+-------------------------------------------------------------
+  96 $   92.67 Mon 23:00   Mon 23:26   Brisbane --> CoffsHarbour
+LAYOVER 166h 34m at CoffsHarbour
+  97 $  503.15 Mon 22:00   Tue 00:04   CoffsHarbour --> Hobart
+LAYOVER 6h 56m at Hobart
+  99 $  326.19 Tue 07:00   Tue 08:27   Hobart --> Sydney
+LAYOVER 96h 33m at Sydney
+ 112 $  989.16 Sat 09:00   Sat 13:31   Sydney --> Perth
+
+User: Invalid sorting property: must be either cost, duration, stopovers, layover, or flight_time.
+
+User: Legs:             3
+Total Duration:   72h 33m
+Total Cost:       $8333.65
+-------------------------------------------------------------
+ID   Cost      Departure   Arrival     Source --> Destination
+-------------------------------------------------------------
+  28 $ 2508.28 Fri 13:00   Sat 01:36   London --> Johannesburg
+LAYOVER 22h 54m at Johannesburg
+ 105 $ 1999.12 Sun 00:30   Sun 09:14   Johannesburg --> AbuDhabi
+LAYOVER 11h 35m at AbuDhabi
+ 103 $ 3826.25 Sun 20:49   Mon 13:33   AbuDhabi --> Sydney
+
+User: Legs:             3
+Total Duration:   72h 33m
+Total Cost:       $8333.65
+-------------------------------------------------------------
+ID   Cost      Departure   Arrival     Source --> Destination
+-------------------------------------------------------------
+  28 $ 2508.28 Fri 13:00   Sat 01:36   London --> Johannesburg
+LAYOVER 22h 54m at Johannesburg
+ 105 $ 1999.12 Sun 00:30   Sun 09:14   Johannesburg --> AbuDhabi
+LAYOVER 11h 35m at AbuDhabi
+ 103 $ 3826.25 Sun 20:49   Mon 13:33   AbuDhabi --> Sydney
+
+User: Legs:             4
+Total Duration:   236h 33m
+Total Cost:       $8821.42
+-------------------------------------------------------------
+ID   Cost      Departure   Arrival     Source --> Destination
+-------------------------------------------------------------
+  27 $ 1629.62 Fri 17:00   Sat 00:45   London --> NewYork
+LAYOVER 9h 15m at NewYork
+ 110 $ 2215.04 Sat 10:00   Sat 20:25   NewYork --> Moscow
+LAYOVER 124h 35m at Moscow
+ 107 $ 1150.51 Fri 01:00   Fri 06:13   Moscow --> AbuDhabi
+LAYOVER 62h 36m at AbuDhabi
+ 103 $ 3826.25 Sun 20:49   Mon 13:33   AbuDhabi --> Sydney
+
+User: Legs:             4
+Total Duration:   254h 48m
+Total Cost:       $6225.76
+-------------------------------------------------------------
+ID   Cost      Departure   Arrival     Source --> Destination
+-------------------------------------------------------------
+ 123 $  706.82 Thu 22:45   Fri 02:10   London --> Moscow
+LAYOVER 4h 50m at Moscow
+ 108 $  409.04 Fri 07:00   Fri 08:40   Moscow --> Stockholm
+LAYOVER 112h 20m at Stockholm
+  82 $ 1283.65 Wed 01:00   Wed 07:40   Stockholm --> AbuDhabi
+LAYOVER 109h 9m at AbuDhabi
+ 103 $ 3826.25 Sun 20:49   Mon 13:33   AbuDhabi --> Sydney
+
+User: Legs:             3
+Total Duration:   254h 48m
+Total Cost:       $5683.58
+-------------------------------------------------------------
+ID   Cost      Departure   Arrival     Source --> Destination
+-------------------------------------------------------------
+ 123 $  706.82 Thu 22:45   Fri 02:10   London --> Moscow
+LAYOVER 166h 50m at Moscow
+ 107 $ 1150.51 Fri 01:00   Fri 06:13   Moscow --> AbuDhabi
+LAYOVER 62h 36m at AbuDhabi
+ 103 $ 3826.25 Sun 20:49   Mon 13:33   AbuDhabi --> Sydney
+
+User: Invalid sorting property: must be either cost, duration, stopovers, layover, or flight_time.
+
+User: Legs:             2
+Total Duration:   32h 17m
+Total Cost:       $4989.86
+-------------------------------------------------------------
+ID   Cost      Departure   Arrival     Source --> Destination
+-------------------------------------------------------------
+ 131 $ 3399.00 Fri 14:00   Sat 06:44   Sydney --> AbuDhabi
+LAYOVER 8h 16m at AbuDhabi
+  38 $ 1590.86 Sat 15:00   Sat 22:17   AbuDhabi --> Paris
+
+User: Legs:             2
+Total Duration:   32h 17m
+Total Cost:       $4989.86
+-------------------------------------------------------------
+ID   Cost      Departure   Arrival     Source --> Destination
+-------------------------------------------------------------
+ 131 $ 3399.00 Fri 14:00   Sat 06:44   Sydney --> AbuDhabi
+LAYOVER 8h 16m at AbuDhabi
+  38 $ 1590.86 Sat 15:00   Sat 22:17   AbuDhabi --> Paris
+
+User: Legs:             4
+Total Duration:   130h 17m
+Total Cost:       $5170.61
+-------------------------------------------------------------
+ID   Cost      Departure   Arrival     Source --> Destination
+-------------------------------------------------------------
+ 100 $ 1500.38 Mon 12:00   Mon 19:35   Sydney --> Jakarta
+LAYOVER 3h 25m at Jakarta
+ 141 $ 1516.51 Mon 23:00   Tue 05:29   Jakarta --> Mumbai
+LAYOVER 78h 31m at Mumbai
+ 133 $  562.87 Fri 12:00   Fri 14:46   Mumbai --> AbuDhabi
+LAYOVER 24h 14m at AbuDhabi
+  38 $ 1590.86 Sat 15:00   Sat 22:17   AbuDhabi --> Paris
+
+User: Legs:             4
+Total Duration:   168h 17m
+Total Cost:       $5170.61
+-------------------------------------------------------------
+ID   Cost      Departure   Arrival     Source --> Destination
+-------------------------------------------------------------
+ 100 $ 1500.38 Mon 12:00   Mon 19:35   Sydney --> Jakarta
+LAYOVER 3h 25m at Jakarta
+ 141 $ 1516.51 Mon 23:00   Tue 05:29   Jakarta --> Mumbai
+LAYOVER 61h 1m at Mumbai
+ 117 $  562.87 Thu 18:30   Thu 21:16   Mumbai --> AbuDhabi
+LAYOVER 79h 44m at AbuDhabi
+  35 $ 1590.86 Mon 05:00   Mon 12:17   AbuDhabi --> Paris
+
+User: Application closed.

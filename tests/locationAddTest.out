@@ -1,0 +1,41 @@
+User: Usage:   LOCATION ADD <name> <lat> <long> <demand_coefficient>
+Example: LOCATION ADD Sydney -33.847927 150.651786 0.2
+
+User: Usage:   LOCATION ADD <name> <lat> <long> <demand_coefficient>
+Example: LOCATION ADD Sydney -33.847927 150.651786 0.2
+
+User: Invalid latitude. It must be a number of degrees between -85 and +85.
+
+User: Invalid latitude. It must be a number of degrees between -85 and +85.
+
+User: Invalid latitude. It must be a number of degrees between -85 and +85.
+
+User: Invalid longitude. It must be a number of degrees between -180 and +180.
+
+User: Invalid longitude. It must be a number of degrees between -180 and +180.
+
+User: Invalid longitude. It must be a number of degrees between -180 and +180.
+
+User: Invalid demand coefficient. It must be a number between -1 and +1.
+
+User: Invalid demand coefficient. It must be a number between -1 and +1.
+
+User: Invalid demand coefficient. It must be a number between -1 and +1.
+
+User: Successfully added location Mumbai.
+
+User: This location already exists.
+
+User: Successfully added location NewDelhi.
+
+User: Location:    Mumbai
+Latitude:    19.080000
+Longitude:   72.741000
+Demand:      +0.4000
+
+User: Location:    NewDelhi
+Latitude:    28.527000
+Longitude:   77.068899
+Demand:      -0.1230
+
+User: Application closed.

@@ -1,0 +1,186 @@
+User: Flights
+-------------------------------------------------------
+ID   Departure   Arrival     Source --> Destination
+-------------------------------------------------------
+(None)
+
+User: Imported 51 locations.
+
+User: Imported 169 flights.
+13 lines were invalid.
+
+User: Flights
+-------------------------------------------------------
+ID   Departure   Arrival     Source --> Destination
+-------------------------------------------------------
+ 131 Mon 00:00   Mon 10:02   Johannesburg --> Rio
+ 132 Mon 00:00   Mon 11:32   Perth --> Johannesburg
+ 119 Mon 02:45   Mon 11:36   London --> Chicago
+  35 Mon 05:00   Mon 12:17   AbuDhabi --> Paris
+  34 Mon 08:00   Mon 12:31   AbuDhabi --> Athens
+  65 Mon 09:00   Mon 10:36   Chicago --> NewYork
+  33 Mon 10:00   Mon 14:31   AbuDhabi --> Athens
+  66 Mon 10:00   Mon 13:54   Chicago --> LosAngeles
+ 154 Mon 10:30   Mon 12:53   Dubbo --> AliceSprings
+ 153 Mon 10:30   Tue 03:12   Sydney --> Dubai
+ 155 Mon 11:33   Mon 14:05   Orange --> AliceSprings
+ 100 Mon 12:00   Mon 19:35   Sydney --> Jakarta
+  32 Mon 12:00   Mon 17:26   Washington --> SanFrancisco
+ 122 Mon 13:00   Mon 21:12   London --> Washington
+  30 Mon 14:00   Mon 22:12   London --> Washington
+  31 Mon 14:00   Mon 19:10   Washington --> LosAngeles
+ 133 Mon 14:32   Tue 00:34   Johannesburg --> Rio
+ 134 Mon 14:32   Tue 01:09   Rio --> NewYork
+  36 Mon 15:00   Mon 22:17   AbuDhabi --> Paris
+ 156 Mon 15:05   Mon 17:52   AliceSprings --> Perth
+ 158 Mon 15:05   Mon 17:52   Perth --> AliceSprings
+ 135 Mon 15:32   Tue 02:06   Rio --> Washington
+ 157 Mon 16:05   Mon 18:52   Perth --> AliceSprings
+  91 Mon 18:00   Tue 11:07   Auckland --> Rio
+  29 Mon 19:00   Tue 03:12   London --> Washington
+  89 Mon 19:00   Mon 20:27   Sydney --> Hobart
+ 159 Mon 19:52   Mon 22:37   AliceSprings --> GoldCoast
+ 130 Mon 21:00   Tue 01:12   Jakarta --> Hanoi
+  90 Mon 21:30   Mon 22:57   Sydney --> Hobart
+  95 Mon 22:00   Tue 14:02   Brisbane --> LosAngeles
+  97 Mon 22:00   Tue 00:04   CoffsHarbour --> Hobart
+  96 Mon 23:00   Mon 23:26   Brisbane --> CoffsHarbour
+  94 Mon 23:00   Tue 16:07   Rio --> Auckland
+ 160 Mon 23:52   Tue 02:38   AliceSprings --> Sydney
+  84 Tue 00:00   Tue 05:13   AbuDhabi --> Moscow
+  62 Tue 00:00   Tue 01:43   Cardiff --> Madrid
+  57 Tue 00:00   Tue 04:28   Paris --> Cairo
+  50 Tue 01:00   Tue 05:31   Athens --> AbuDhabi
+  63 Tue 01:00   Tue 02:43   Cardiff --> Madrid
+  56 Tue 01:00   Tue 02:28   Rome --> Athens
+  49 Tue 01:00   Tue 06:26   Washington --> SanFrancisco
+  85 Tue 02:00   Tue 03:40   Moscow --> Ufa
+  51 Tue 02:00   Tue 07:59   Rome --> AbuDhabi
+  52 Tue 03:00   Tue 08:59   Rome --> AbuDhabi
+  53 Tue 04:00   Tue 06:03   Rome --> Luton
+  55 Tue 04:00   Tue 06:44   Stockholm --> Rome
+ 161 Tue 04:00   Tue 06:46   Sydney --> AliceSprings
+ 136 Tue 04:12   Tue 14:46   Washington --> Rio
+  54 Tue 05:00   Tue 08:21   Stockholm --> Athens
+  69 Tue 05:00   Tue 21:47   Sydney --> LosAngeles
+  98 Tue 06:00   Tue 09:20   Hobart --> Auckland
+  58 Tue 06:00   Tue 06:49   Paris --> Toulouse
+  92 Tue 06:00   Tue 19:58   Rio --> LosAngeles
+  99 Tue 07:00   Tue 08:27   Hobart --> Sydney
+  48 Tue 07:00   Tue 15:34   Washington --> Paris
+  59 Tue 09:00   Tue 09:41   Bordeaux --> Paris
+  64 Tue 09:00   Tue 12:18   Madrid --> Athens
+ 146 Tue 10:00   Tue 12:49   Dallas --> LosAngeles
+  86 Tue 10:00   Tue 11:40   Moscow --> Ufa
+  93 Tue 10:00   Tue 23:58   Rio --> LosAngeles
+  47 Tue 10:00   Tue 18:12   Washington --> London
+  87 Tue 11:00   Tue 19:58   Moscow --> Vladivostok
+  60 Tue 12:00   Tue 15:20   Cairo --> Dubai
+  42 Tue 12:00   Tue 13:12   Paris --> Berlin
+ 123 Tue 13:00   Tue 13:27   NewYork --> Washington
+  43 Tue 13:00   Tue 14:52   Paris --> Oslo
+  88 Tue 13:40   Tue 21:11   Ufa --> Vladivostok
+ 124 Tue 14:00   Tue 15:36   NewYork --> Chicago
+  44 Tue 14:00   Tue 22:08   Paris --> NewYork
+  37 Tue 15:00   Tue 22:17   AbuDhabi --> Paris
+  61 Tue 16:00   Tue 19:17   Cairo --> AbuDhabi
+  45 Tue 17:00   Wed 01:08   NewYork --> Paris
+  46 Tue 17:00   Wed 01:12   Washington --> London
+  40 Tue 18:00   Wed 00:43   AbuDhabi --> Bern
+  41 Tue 18:00   Tue 18:36   Paris --> Bern
+  73 Tue 19:00   Tue 20:36   Chicago --> NewYork
+  74 Tue 20:00   Wed 05:16   Chicago --> Paris
+  75 Tue 21:00   Wed 06:22   Chicago --> Madrid
+  83 Wed 00:00   Wed 06:40   AbuDhabi --> Stockholm
+ 145 Wed 00:00   Wed 02:49   Dallas --> LosAngeles
+  76 Wed 00:00   Wed 08:02   NewYork --> Madrid
+  82 Wed 01:00   Wed 07:40   Stockholm --> AbuDhabi
+ 142 Wed 02:00   Wed 13:30   Rio --> Dallas
+ 141 Wed 02:08   Wed 02:58   Paris --> Manchester
+  68 Wed 05:00   Wed 06:36   NewYork --> Chicago
+ 143 Wed 06:00   Wed 09:02   Dallas --> NewYork
+ 144 Wed 07:00   Wed 08:46   Dallas --> Chicago
+   0 Wed 09:00   Wed 21:25   Sydney --> Beijing
+  67 Wed 10:00   Wed 16:49   Chicago --> Utqiagvik
+ 147 Wed 10:00   Wed 12:49   Dallas --> LosAngeles
+ 137 Wed 10:00   Wed 21:15   Madrid --> Johannesburg
+   5 Wed 10:00   Thu 02:44   Sydney --> AbuDhabi
+ 148 Wed 11:00   Thu 03:47   Sydney --> LosAngeles
+   6 Wed 12:00   Thu 04:44   AbuDhabi --> Sydney
+ 121 Wed 13:00   Wed 21:51   London --> Chicago
+ 149 Wed 13:00   Wed 13:23   Sydney --> Dubbo
+ 152 Wed 15:00   Wed 15:23   Dubbo --> Sydney
+ 165 Wed 16:00   Thu 00:02   AbuDhabi --> Lagos
+ 164 Wed 16:00   Wed 22:16   Lagos --> Johannesburg
+  77 Wed 16:00   Thu 00:08   NewYork --> Paris
+  78 Wed 16:00   Wed 17:36   Oslo --> Tromso
+  79 Wed 16:00   Wed 16:15   Tromso --> Alta
+ 150 Wed 18:00   Wed 18:14   Sydney --> Orange
+ 166 Wed 19:00   Thu 03:02   AbuDhabi --> Lagos
+ 162 Wed 19:00   Thu 02:30   Brisbane --> Jakarta
+  72 Wed 19:00   Thu 03:51   Chicago --> London
+  80 Wed 19:00   Wed 19:15   Tromso --> Alta
+ 129 Wed 20:00   Wed 23:15   Beijing --> Hanoi
+ 151 Wed 20:00   Wed 20:14   Orange --> Sydney
+  81 Wed 20:00   Wed 21:59   Stockholm --> London
+   1 Wed 22:25   Thu 05:40   Beijing --> Jakarta
+ 120 Wed 23:00   Thu 07:51   London --> Chicago
+   2 Wed 23:25   Thu 02:40   Beijing --> Hanoi
+ 115 Thu 00:00   Thu 03:25   London --> Moscow
+   4 Thu 00:25   Thu 02:18   Beijing --> Vladivostok
+   3 Thu 00:25   Thu 11:11   Hanoi --> Sydney
+ 138 Thu 01:00   Thu 08:49   AbuDhabi --> Madrid
+ 139 Thu 01:08   Thu 02:36   Paris --> Madrid
+ 140 Thu 02:08   Thu 02:58   Paris --> Manchester
+ 118 Thu 02:45   Thu 11:36   London --> Chicago
+  10 Thu 04:00   Thu 11:11   AbuDhabi --> Oslo
+   7 Thu 12:00   Thu 17:59   AbuDhabi --> Rome
+ 167 Thu 12:00   Thu 20:24   Lagos --> Rio
+ 116 Thu 12:00   Thu 15:25   London --> Moscow
+  13 Thu 13:00   Thu 14:45   Oslo --> Alta
+ 163 Thu 14:00   Thu 20:16   Lagos --> Johannesburg
+  14 Thu 15:45   Thu 17:30   Oslo --> Alta
+  15 Thu 16:00   Thu 17:19   Alta --> Longyearbyen
+  17 Thu 16:00   Thu 17:20   Longyearbyen --> Tromso
+ 168 Thu 17:36   Fri 00:34   Lagos --> London
+  16 Thu 19:00   Thu 20:19   Alta --> Longyearbyen
+  71 Thu 19:00   Fri 03:51   Chicago --> London
+  20 Thu 19:00   Thu 20:36   Oslo --> London
+  21 Thu 21:45   Thu 22:06   London --> Manchester
+ 117 Thu 22:45   Fri 02:10   London --> Moscow
+  22 Thu 23:10   Thu 23:14   Manchester --> Liverpool
+ 106 Fri 00:00   Fri 05:08   Moscow --> Dubai
+  18 Fri 00:20   Fri 03:10   Longyearbyen --> Oslo
+ 107 Fri 01:00   Fri 06:13   Moscow --> AbuDhabi
+  19 Fri 01:20   Fri 04:10   Longyearbyen --> Oslo
+  11 Fri 04:00   Fri 11:11   AbuDhabi --> Oslo
+  12 Fri 04:00   Fri 06:47   Rome --> Oslo
+ 108 Fri 07:00   Fri 08:40   Moscow --> Stockholm
+  25 Fri 08:00   Fri 15:37   AbuDhabi --> London
+ 109 Fri 08:00   Fri 11:25   Moscow --> London
+  24 Fri 10:00   Fri 18:16   AbuDhabi --> Beijing
+  23 Fri 11:00   Fri 14:17   AbuDhabi --> Cairo
+   8 Fri 12:00   Fri 17:59   AbuDhabi --> Rome
+  28 Fri 13:00   Sat 01:36   London --> Johannesburg
+ 126 Fri 13:00   Sat 01:34   Perth --> AbuDhabi
+ 125 Fri 14:00   Sat 06:44   Sydney --> AbuDhabi
+  27 Fri 17:00   Sat 00:45   London --> NewYork
+  26 Fri 19:00   Sat 02:37   AbuDhabi --> London
+  70 Fri 19:00   Sat 03:51   Chicago --> London
+ 128 Fri 20:00   Fri 23:15   Beijing --> Hanoi
+ 127 Fri 20:00   Fri 21:53   Vladivostok --> Beijing
+ 113 Sat 04:00   Sat 08:31   Sydney --> Perth
+ 114 Sat 06:00   Sat 10:31   Sydney --> Perth
+ 111 Sat 09:00   Sat 16:45   NewYork --> London
+ 112 Sat 09:00   Sat 13:31   Sydney --> Perth
+ 110 Sat 10:00   Sat 20:25   NewYork --> Moscow
+   9 Sat 12:00   Sat 17:59   AbuDhabi --> Rome
+  38 Sat 15:00   Sat 22:17   AbuDhabi --> Paris
+ 105 Sun 00:30   Sun 09:14   Johannesburg --> AbuDhabi
+ 104 Sun 00:49   Sun 09:33   AbuDhabi --> Johannesburg
+ 101 Sun 12:00   Sun 18:28   Berlin --> AbuDhabi
+  39 Sun 15:00   Sun 22:37   AbuDhabi --> London
+ 102 Sun 19:00   Mon 01:28   Berlin --> AbuDhabi
+ 103 Sun 20:49   Mon 13:33   AbuDhabi --> Sydney
+
+User: Application closed.

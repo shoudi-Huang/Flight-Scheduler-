@@ -1,0 +1,109 @@
+User: Flights
+-------------------------------------------------------
+ID   Departure   Arrival     Source --> Destination
+-------------------------------------------------------
+(None)
+
+User: Successfully added location Mumbai.
+
+User: Successfully added location NewDelhi.
+
+User: Locations (2):
+Mumbai, NewDelhi
+
+User: Usage:   FLIGHT ADD <departure time> <from> <to> <capacity>
+Example: FLIGHT ADD Monday 18:00 Sydney Melbourne 120
+
+User: Usage:   FLIGHT ADD <departure time> <from> <to> <capacity>
+Example: FLIGHT ADD Monday 18:00 Sydney Melbourne 120
+
+User: Successfully added Flight 0.
+
+User: Flights
+-------------------------------------------------------
+ID   Departure   Arrival     Source --> Destination
+-------------------------------------------------------
+   0 Mon 10:05   Mon 11:40   Mumbai --> NewDelhi
+
+User: Invalid departure time. Use the format <day_of_week> <hour:minute>, with 24h time.
+
+User: Invalid departure time. Use the format <day_of_week> <hour:minute>, with 24h time.
+
+User: Invalid departure time. Use the format <day_of_week> <hour:minute>, with 24h time.
+
+User: Invalid departure time. Use the format <day_of_week> <hour:minute>, with 24h time.
+
+User: Invalid departure time. Use the format <day_of_week> <hour:minute>, with 24h time.
+
+User: Invalid departure time. Use the format <day_of_week> <hour:minute>, with 24h time.
+
+User: Invalid departure time. Use the format <day_of_week> <hour:minute>, with 24h time.
+
+User: Invalid departure time. Use the format <day_of_week> <hour:minute>, with 24h time.
+
+User: Invalid starting location.
+
+User: Invalid ending location.
+
+User: Invalid ending location.
+
+User: Invalid positive integer capacity.
+
+User: Invalid positive integer capacity.
+
+User: Invalid positive integer capacity.
+
+User: Source and destination cannot be the same place.
+
+User: Flight 0
+Departure:    Mon 10:05 Mumbai
+Arrival:      Mon 11:40 NewDelhi
+Distance:     1,139km
+Duration:     1h 35m
+Ticket Cost:  $317.79
+Passengers:   0/80
+
+User: Successfully added location Sydney.
+
+User: Scheduling conflict! This flight clashes with Flight 0 departing from Mumbai on Monday 10:05.
+
+User: Scheduling conflict! This flight clashes with Flight 0 departing from Mumbai on Monday 10:05.
+
+User: Scheduling conflict! This flight clashes with Flight 0 departing from Mumbai on Monday 10:05.
+
+User: Scheduling conflict! This flight clashes with Flight 0 arriving at NewDelhi on Monday 11:40.
+
+User: Scheduling conflict! This flight clashes with Flight 0 arriving at NewDelhi on Monday 11:40.
+
+User: Successfully added Flight 1.
+
+User: Scheduling conflict! This flight clashes with Flight 1 departing from NewDelhi on Monday 12:40.
+
+User: Flight 1
+Departure:    Mon 12:40 NewDelhi
+Arrival:      Mon 14:15 Mumbai
+Distance:     1,139km
+Duration:     1h 35m
+Ticket Cost:  $365.43
+Passengers:   0/120
+
+User: Successfully added Flight 2.
+
+User: Scheduling conflict! This flight clashes with Flight 2 departing from Sydney on Sunday 23:50.
+
+User: Successfully added Flight 3.
+
+User: Scheduling conflict! This flight clashes with Flight 3 departing from Sydney on Sunday 00:45.
+
+User: Scheduling conflict! This flight clashes with Flight 3 departing from Sydney on Sunday 00:45.
+
+User: Flights
+-------------------------------------------------------
+ID   Departure   Arrival     Source --> Destination
+-------------------------------------------------------
+   0 Mon 10:05   Mon 11:40   Mumbai --> NewDelhi
+   1 Mon 12:40   Mon 14:15   NewDelhi --> Mumbai
+   3 Sun 00:45   Sun 15:11   Sydney --> NewDelhi
+   2 Sun 23:50   Mon 14:16   Sydney --> NewDelhi
+
+User: Application closed.

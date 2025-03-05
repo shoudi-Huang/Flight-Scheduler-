@@ -1,0 +1,41 @@
+travel
+travel Mumbai
+travel Mumbai NewDelhi
+location add Mumbai 19.08 72.741 0.4 
+travel Mumbai NewDelhi
+location add NewDelhi 28.527 77.0688988 -0.123
+travel Mumbai NewDelhi
+location import locations.csv
+flight import flights.csv
+travel Mumbai NewDelhi
+travel Mumbai NewDelhi duration 0
+travel Mumbai NewDelhi duration 1 
+travel Mumbai NewDelhi duration 2 Extra parameter
+travel Mumbai NewDelhi duration 3
+travel Mumbai NewDelhi duration 4 HAH10
+travel Mumbai NewDelhi durations 0
+travel Sydney Beijing duration -1
+travel sydney Beijing duration int
+travel SYDNEY Beijing costs
+travel Sydney Beijing cost
+travel Sydney BEIJING cost 0
+travel sYdNey Beijing cost 9
+travel Sydney bEiJinG cost 10
+travel Sydney Beijing cOst 11
+travel Brisbane Perth stopover
+travel Brisbane Perth stopovers
+travel Brisbane Perth stopoVers 0
+travel Brisbane Perth stopovers 4
+tRavEl Brisbane Perth stopovers 5
+travel London Sydney layovers
+travel London Sydney layover
+travel London Sydney laYover 0
+travel London Sydney layover 9
+travel London Sydney layover 10
+travel London Sydney layover 11
+travel Sydney Paris flight_times
+travel Sydney Paris flight_time
+travel Sydney Paris flight_time 0
+travel Sydney Paris flight_time 9
+travel Sydney Paris flight_time 10
+exit

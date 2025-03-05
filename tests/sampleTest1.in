@@ -1,0 +1,5 @@
+flight add monday 18:00 Sydney Melbourne 120
+location add Sydney -33.87 150.6 0.5
+locations
+exit
+

@@ -1,0 +1,19 @@
+flights
+location add Mumbai 19.08 72.741 0.4
+location add NewDelhi 28.527 77.0688988 -0.123
+location add Sydney -33.847927 150.651786 0.4
+locations
+flight add
+flight add monday 10:00 mumbai newdelhi
+flight add monday 10:05 mumbai newdelhi 80
+flight add Sunday 21:50 Sydney newdelhi 90
+flight add monday 12:40 newdelhi mumbai 120
+flight add Sunday 21:50 Sydney newdelhi 90
+
+flight add Sunday 23:50 Sydney newdelhi 90 ###
+flight add Sunday 23:25 Sydney newdelhi 90
+flight add Sunday 00:45 Sydney newdelhi 70 ###
+flight add Saturday 23:46 Sydney newdelhi 70
+flight add Sunday 00:10 Sydney newdelhi 70
+flights
+exit

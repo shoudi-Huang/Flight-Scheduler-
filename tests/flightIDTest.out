@@ -1,0 +1,45 @@
+User: Usage:
+FLIGHT <id> [BOOK/REMOVE/RESET] [num]
+FLIGHT ADD <departure time> <from> <to> <capacity>
+FLIGHT IMPORT/EXPORT <filename>
+
+User: Invalid Flight ID.
+
+User: Invalid Flight ID.
+
+User: Invalid Flight ID.
+
+User: Imported 51 locations.
+
+User: Successfully added Flight 0.
+
+User: Flight 0
+Departure:    Wed 06:00 Sydney
+Arrival:      Wed 10:31 Perth
+Distance:     3,254km
+Duration:     4h 31m
+Ticket Cost:  $989.16
+Passengers:   0/180
+
+User: Imported 169 flights.
+13 lines were invalid.
+
+User: Flight 1
+Departure:    Wed 09:00 Sydney
+Arrival:      Wed 21:25 Beijing
+Distance:     8,939km
+Duration:     12h 25m
+Ticket Cost:  $2530.92
+Passengers:   45/280
+
+User: Flight 169
+Departure:    Thu 17:36 Lagos
+Arrival:      Fri 00:34 London
+Distance:     5,011km
+Duration:     6h 58m
+Ticket Cost:  $1452.48
+Passengers:   0/190
+
+User: Invalid Flight ID.
+
+User: Application closed.

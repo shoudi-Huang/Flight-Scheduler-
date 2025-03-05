@@ -1,0 +1,16 @@
+location import locations.csv
+flight add sunday 20:00 Berlin NewYork 250
+flight 0
+flights
+flight xx remove
+flight 10 remove
+flight 0 remove extra parameter 1
+flights
+flight 0
+flight add monday 06:00 newYork berlin 234
+flight 0
+flight 1
+flight 0 remove
+FlIgHt 1 rEmoVe
+flight 1
+exit

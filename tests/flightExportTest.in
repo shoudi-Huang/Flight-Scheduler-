@@ -1,0 +1,11 @@
+location import locations.csv
+flights
+flight export
+flight export User/error_locationExport.csv
+flight export flightExportEmptyTest.csv
+flight add sunday 20:00 Berlin NewYork 250
+Flight EXPorT flightExport1Test.csv extra parameter kl
+flight 0 remove
+flight import flights.csv
+flight export flightExportTest.csv
+exit

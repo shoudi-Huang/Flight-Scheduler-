@@ -1,0 +1,17 @@
+locations
+location import error_location.csv
+location import
+location import invalidname.txt extra ls
+location import locationImportTest.csv
+location import locationImportTest.csv
+locations
+location Darwin
+location Sydney
+location newYork
+location Mumbai
+location import locationImport2Test.csv extra parameter
+locations
+location Mumbai
+location import locationImportEmptyTest.csv
+locations
+exit

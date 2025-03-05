@@ -1,0 +1,17 @@
+LocATioN aDd
+location add Mumbai 19.08 72.74
+location add Mumbai kk 72.741 0.4
+location add Mumbai -90 72.741 0.4
+location add Mumbai 86 72.741 0.4
+location add Mumbai 19.08 lon 0.4
+location add Mumbai 19.08 -190 0.4
+location add Mumbai 19.08 181 0.4
+location add Mumbai 19.08 72.741 qd
+location add Mumbai 19.08 72.741 1.2
+location add Mumbai 19.08 72.741 -2
+location add Mumbai 19.08 72.741 0.4
+location add Mumbai 19.08 72.741 0.4
+location add NewDelhi 28.527 77.0688988 -0.123 k l o 9
+location Mumbai
+location NewDelhi
+exit

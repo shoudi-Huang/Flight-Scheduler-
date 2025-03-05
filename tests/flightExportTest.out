@@ -1,0 +1,26 @@
+User: Imported 51 locations.
+
+User: Flights
+-------------------------------------------------------
+ID   Departure   Arrival     Source --> Destination
+-------------------------------------------------------
+(None)
+
+User: Error writing file.
+
+User: Error writing file.
+
+User: Exported 0 flights.
+
+User: Successfully added Flight 0.
+
+User: Exported 1 flight.
+
+User: Removed Flight 0, Sun 20:00 Berlin --> NewYork, from the flight schedule.
+
+User: Imported 169 flights.
+13 lines were invalid.
+
+User: Exported 169 flights.
+
+User: Application closed.

@@ -1,0 +1,12 @@
+flight
+flight xx
+flight p0
+flight 0 extra parameter
+location import locations.csv
+flight add Wednesday 06:00 Sydney Perth 180
+flight 0
+flight import flights.csv
+FLIGHT 1
+FliGhT 169 oplq y89
+flight 170
+exit

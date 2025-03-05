@@ -1,0 +1,11 @@
+locations
+location export
+location export /User/locationExport.csv
+location export ExportEmptyTest.csv
+location add Mumbai 19.08 72.741 0.4
+location export Export1Test.csv extra bit ha ha
+location import locations.csv
+location add NewDelhi 28.527 77.0688988 -0.123
+locations
+location export ExportLocationTest.csv
+exit

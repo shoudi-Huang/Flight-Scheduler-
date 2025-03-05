@@ -1,0 +1,14 @@
+location import locations.csv
+flights
+flight import
+flight import error_flights.csv
+FLIGHT IMPORT flightImportEmptyTest.csv
+flight import flightImportTest.csv
+flights
+flight 0
+flight 168
+flight 169
+flight import flightImport1Test.csv
+flights
+flight 169
+exit

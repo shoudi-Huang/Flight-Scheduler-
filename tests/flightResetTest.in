@@ -1,0 +1,16 @@
+location import locations.csv
+flight add sunday 20:00 Berlin NewYork 250
+flight 0
+flight gh reset
+flight 1 reset
+flight 0 reset
+flight 0
+flight 0 book
+flight 0
+FLIGHT 0 RESET
+flight 0
+flight 0 book 250
+flight 0
+fLiGht 0 ResEt 0 extra bit
+flight 0
+exit

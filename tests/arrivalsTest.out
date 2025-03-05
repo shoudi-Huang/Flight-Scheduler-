@@ -1,0 +1,42 @@
+User: This location does not exist in the system.
+
+User: This location does not exist in the system.
+
+User: Imported 51 locations.
+
+User: Chicago
+-------------------------------------------------------
+ID   Time        Departure/Arrival to/from Location
+-------------------------------------------------------
+
+User: This location does not exist in the system.
+
+User: Imported 169 flights.
+13 lines were invalid.
+
+User: Chicago
+-------------------------------------------------------
+ID   Time        Departure/Arrival to/from Location
+-------------------------------------------------------
+ 119 Mon 11:36   Arrival from London
+ 124 Tue 15:36   Arrival from NewYork
+  68 Wed 06:36   Arrival from NewYork
+ 144 Wed 08:46   Arrival from Dallas
+ 121 Wed 21:51   Arrival from London
+ 120 Thu 07:51   Arrival from London
+ 118 Thu 11:36   Arrival from London
+
+User: Removed Flight 119, Mon 02:45 London --> Chicago, from the flight schedule.
+
+User: Chicago
+-------------------------------------------------------
+ID   Time        Departure/Arrival to/from Location
+-------------------------------------------------------
+ 124 Tue 15:36   Arrival from NewYork
+  68 Wed 06:36   Arrival from NewYork
+ 144 Wed 08:46   Arrival from Dallas
+ 121 Wed 21:51   Arrival from London
+ 120 Thu 07:51   Arrival from London
+ 118 Thu 11:36   Arrival from London
+
+User: Application closed.

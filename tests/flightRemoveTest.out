@@ -1,0 +1,51 @@
+User: Imported 51 locations.
+
+User: Successfully added Flight 0.
+
+User: Flight 0
+Departure:    Sun 20:00 Berlin
+Arrival:      Mon 04:52 NewYork
+Distance:     6,386km
+Duration:     8h 52m
+Ticket Cost:  $1825.24
+Passengers:   0/250
+
+User: Flights
+-------------------------------------------------------
+ID   Departure   Arrival     Source --> Destination
+-------------------------------------------------------
+   0 Sun 20:00   Mon 04:52   Berlin --> NewYork
+
+User: Invalid Flight ID.
+
+User: Invalid Flight ID.
+
+User: Removed Flight 0, Sun 20:00 Berlin --> NewYork, from the flight schedule.
+
+User: Flights
+-------------------------------------------------------
+ID   Departure   Arrival     Source --> Destination
+-------------------------------------------------------
+(None)
+
+User: Invalid Flight ID.
+
+User: Successfully added Flight 1.
+
+User: Invalid Flight ID.
+
+User: Flight 1
+Departure:    Mon 06:00 NewYork
+Arrival:      Mon 14:52 Berlin
+Distance:     6,386km
+Duration:     8h 52m
+Ticket Cost:  $2006.64
+Passengers:   0/234
+
+User: Invalid Flight ID.
+
+User: Removed Flight 1, Mon 06:00 NewYork --> Berlin, from the flight schedule.
+
+User: Invalid Flight ID.
+
+User: Application closed.

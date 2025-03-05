@@ -1,0 +1,54 @@
+User: This location does not exist in the system.
+
+User: This location does not exist in the system.
+
+User: Imported 51 locations.
+
+User: London
+-------------------------------------------------------
+ID   Time        Departure/Arrival to/from Location
+-------------------------------------------------------
+
+User: This location does not exist in the system.
+
+User: Imported 169 flights.
+13 lines were invalid.
+
+User: London
+-------------------------------------------------------
+ID   Time        Departure/Arrival to/from Location
+-------------------------------------------------------
+ 119 Mon 02:45   Departure to Chicago
+ 122 Mon 13:00   Departure to Washington
+  30 Mon 14:00   Departure to Washington
+  29 Mon 19:00   Departure to Washington
+ 121 Wed 13:00   Departure to Chicago
+ 120 Wed 23:00   Departure to Chicago
+ 115 Thu 00:00   Departure to Moscow
+ 118 Thu 02:45   Departure to Chicago
+ 116 Thu 12:00   Departure to Moscow
+  21 Thu 21:45   Departure to Manchester
+ 117 Thu 22:45   Departure to Moscow
+  28 Fri 13:00   Departure to Johannesburg
+  27 Fri 17:00   Departure to NewYork
+
+User: Removed Flight 119, Mon 02:45 London --> Chicago, from the flight schedule.
+
+User: London
+-------------------------------------------------------
+ID   Time        Departure/Arrival to/from Location
+-------------------------------------------------------
+ 122 Mon 13:00   Departure to Washington
+  30 Mon 14:00   Departure to Washington
+  29 Mon 19:00   Departure to Washington
+ 121 Wed 13:00   Departure to Chicago
+ 120 Wed 23:00   Departure to Chicago
+ 115 Thu 00:00   Departure to Moscow
+ 118 Thu 02:45   Departure to Chicago
+ 116 Thu 12:00   Departure to Moscow
+  21 Thu 21:45   Departure to Manchester
+ 117 Thu 22:45   Departure to Moscow
+  28 Fri 13:00   Departure to Johannesburg
+  27 Fri 17:00   Departure to NewYork
+
+User: Application closed.

@@ -1,0 +1,72 @@
+User: This location does not exist in the system.
+
+User: This location does not exist in the system.
+
+User: Imported 51 locations.
+
+User: This location does not exist in the system.
+
+User: Sydney
+-------------------------------------------------------
+ID   Time        Departure/Arrival to/from Location
+-------------------------------------------------------
+
+User: Imported 169 flights.
+13 lines were invalid.
+
+User: Sydney
+-------------------------------------------------------
+ID   Time        Departure/Arrival to/from Location
+-------------------------------------------------------
+ 153 Mon 10:30   Departure to Dubai
+ 100 Mon 12:00   Departure to Jakarta
+ 103 Mon 13:33   Arrival from AbuDhabi
+  89 Mon 19:00   Departure to Hobart
+  90 Mon 21:30   Departure to Hobart
+ 160 Tue 02:38   Arrival from AliceSprings
+ 161 Tue 04:00   Departure to AliceSprings
+  69 Tue 05:00   Departure to LosAngeles
+  99 Tue 08:27   Arrival from Hobart
+   0 Wed 09:00   Departure to Beijing
+   5 Wed 10:00   Departure to AbuDhabi
+ 148 Wed 11:00   Departure to LosAngeles
+ 149 Wed 13:00   Departure to Dubbo
+ 152 Wed 15:23   Arrival from Dubbo
+ 150 Wed 18:00   Departure to Orange
+ 151 Wed 20:14   Arrival from Orange
+   6 Thu 04:44   Arrival from AbuDhabi
+   3 Thu 11:11   Arrival from Hanoi
+ 125 Fri 14:00   Departure to AbuDhabi
+ 113 Sat 04:00   Departure to Perth
+ 114 Sat 06:00   Departure to Perth
+ 112 Sat 09:00   Departure to Perth
+
+User: Removed Flight 153, Mon 10:30 Sydney --> Dubai, from the flight schedule.
+
+User: Sydney
+-------------------------------------------------------
+ID   Time        Departure/Arrival to/from Location
+-------------------------------------------------------
+ 100 Mon 12:00   Departure to Jakarta
+ 103 Mon 13:33   Arrival from AbuDhabi
+  89 Mon 19:00   Departure to Hobart
+  90 Mon 21:30   Departure to Hobart
+ 160 Tue 02:38   Arrival from AliceSprings
+ 161 Tue 04:00   Departure to AliceSprings
+  69 Tue 05:00   Departure to LosAngeles
+  99 Tue 08:27   Arrival from Hobart
+   0 Wed 09:00   Departure to Beijing
+   5 Wed 10:00   Departure to AbuDhabi
+ 148 Wed 11:00   Departure to LosAngeles
+ 149 Wed 13:00   Departure to Dubbo
+ 152 Wed 15:23   Arrival from Dubbo
+ 150 Wed 18:00   Departure to Orange
+ 151 Wed 20:14   Arrival from Orange
+   6 Thu 04:44   Arrival from AbuDhabi
+   3 Thu 11:11   Arrival from Hanoi
+ 125 Fri 14:00   Departure to AbuDhabi
+ 113 Sat 04:00   Departure to Perth
+ 114 Sat 06:00   Departure to Perth
+ 112 Sat 09:00   Departure to Perth
+
+User: Application closed.

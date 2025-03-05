@@ -1,0 +1,71 @@
+User: Imported 51 locations.
+
+User: Flights
+-------------------------------------------------------
+ID   Departure   Arrival     Source --> Destination
+-------------------------------------------------------
+(None)
+
+User: Successfully added Flight 0.
+
+User: Flight 0
+Departure:    Sun 20:00 Berlin
+Arrival:      Mon 04:52 NewYork
+Distance:     6,386km
+Duration:     8h 52m
+Ticket Cost:  $1825.24
+Passengers:   0/250
+
+User: Invalid Flight ID.
+
+User: Invalid Flight ID.
+
+User: Successfully added Flight 1.
+
+User: Flight 1
+Departure:    Mon 06:00 NewYork
+Arrival:      Mon 14:52 Berlin
+Distance:     6,386km
+Duration:     8h 52m
+Ticket Cost:  $2006.64
+Passengers:   0/234
+
+User: Booked 1 passenger on flight 1 for a total cost of $2006.64
+
+User: Invalid number of passengers to book.
+
+User: Invalid number of passengers to book.
+
+User: Booked 200 passengers on flight 1 for a total cost of $372594.12
+
+User: Booked 33 passengers on flight 1 for a total cost of $71899.82
+Flight is now full.
+
+User: Flight 1
+Departure:    Mon 06:00 NewYork
+Arrival:      Mon 14:52 Berlin
+Distance:     6,386km
+Duration:     8h 52m
+Ticket Cost:  $2186.20
+Passengers:   234/234
+
+User: Booked 0 passengers on flight 1 for a total cost of $0.00
+Flight is now full.
+
+User: Booked 1 passenger on flight 0 for a total cost of $1825.24
+
+User: Booked 249 passengers on flight 0 for a total cost of $432089.35
+Flight is now full.
+
+User: Flight 0
+Departure:    Sun 20:00 Berlin
+Arrival:      Mon 04:52 NewYork
+Distance:     6,386km
+Duration:     8h 52m
+Ticket Cost:  $1988.58
+Passengers:   250/250
+
+User: Booked 0 passengers on flight 0 for a total cost of $0.00
+Flight is now full.
+
+User: Application closed.

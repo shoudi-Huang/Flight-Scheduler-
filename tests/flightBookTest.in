@@ -1,0 +1,20 @@
+location import locations.csv
+flights
+flight add sunday 20:00 Berlin NewYork 250
+flight 0
+flight xx book
+flight 1 book 10 ilp
+flight add monday 06:00 newYork berlin 234
+flight 1
+flight 1 book
+FLIGHT 1 BOOK xm
+FliGhT 1 bOOk -10
+flight 1 book 200
+flight 1 book 50
+flight 1
+flight 1 book 10
+flight 0 book 1 qm slk
+FlIght 0 BoOk 249
+flight 0
+flight 0 book
+exit

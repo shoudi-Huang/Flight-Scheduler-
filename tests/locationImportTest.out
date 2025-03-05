@@ -1,0 +1,52 @@
+User: Locations (0):
+(None)
+
+User: Error reading file.
+
+User: Error reading file.
+
+User: Error reading file.
+
+User: Imported 51 locations.
+11 lines were invalid.
+
+User: Imported 0 locations.
+62 lines were invalid.
+
+User: Locations (51):
+AbuDhabi, Adelaide, AliceSprings, Alta, Athens, Auckland, Beijing, Berlin, Bern, Bordeaux, Brisbane, Cairo, Cardiff, Chicago, CoffsHarbour, Dallas, Darwin, Dubai, Dubbo, GoldCoast, Hanoi, Hobart, Houston, Jakarta, Johannesburg, Lagos, Liverpool, London, Longyearbyen, LosAngeles, Luton, Madrid, Manchester, Moscow, NewYork, Orange, Oslo, Paris, Perth, Rio, Rome, SanFrancisco, Stockholm, Sydney, Toulouse, Townsville, Tromso, Ufa, Utqiagvik, Vladivostok, Washington
+
+User: Location:    Darwin
+Latitude:    -12.425892
+Longitude:   130.863268
+Demand:      -1.0000
+
+User: Location:    Sydney
+Latitude:    -33.847927
+Longitude:   150.651786
+Demand:      +0.4000
+
+User: Location:    NewYork
+Latitude:    40.697149
+Longitude:   -74.259866
+Demand:      -0.0985
+
+User: Invalid location name.
+
+User: Imported 1 location.
+1 line was invalid.
+
+User: Locations (52):
+AbuDhabi, Adelaide, AliceSprings, Alta, Athens, Auckland, Beijing, Berlin, Bern, Bordeaux, Brisbane, Cairo, Cardiff, Chicago, CoffsHarbour, Dallas, Darwin, Dubai, Dubbo, GoldCoast, Hanoi, Hobart, Houston, Jakarta, Johannesburg, Lagos, Liverpool, London, Longyearbyen, LosAngeles, Luton, Madrid, Manchester, Moscow, Mumbai, NewYork, Orange, Oslo, Paris, Perth, Rio, Rome, SanFrancisco, Stockholm, Sydney, Toulouse, Townsville, Tromso, Ufa, Utqiagvik, Vladivostok, Washington
+
+User: Location:    Mumbai
+Latitude:    19.080000
+Longitude:   72.741000
+Demand:      +0.4000
+
+User: Imported 0 locations.
+
+User: Locations (52):
+AbuDhabi, Adelaide, AliceSprings, Alta, Athens, Auckland, Beijing, Berlin, Bern, Bordeaux, Brisbane, Cairo, Cardiff, Chicago, CoffsHarbour, Dallas, Darwin, Dubai, Dubbo, GoldCoast, Hanoi, Hobart, Houston, Jakarta, Johannesburg, Lagos, Liverpool, London, Longyearbyen, LosAngeles, Luton, Madrid, Manchester, Moscow, Mumbai, NewYork, Orange, Oslo, Paris, Perth, Rio, Rome, SanFrancisco, Stockholm, Sydney, Toulouse, Townsville, Tromso, Ufa, Utqiagvik, Vladivostok, Washington
+
+User: Application closed.
